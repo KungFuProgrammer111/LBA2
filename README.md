@@ -1,5 +1,21 @@
 # LBA2
-Twinsen's little big adventure - savegames - steam achievements
+Twinsen's little big adventure 2 
+- savegames -
+100% steam achievements
+
+
+
+
+
+
+
+---
+Guide ToDo's:
+
+- Full Savegame-set
+- Full Solution with description
+---
+
 
 
 
@@ -57,12 +73,6 @@ HOW TO USE THEM:
 
 0019: Move towards the edge and go through all videos and dialogues
  
-
-
-Guide ToDo's:
-
-- Full Savegame-set
-- Full Solution with description
 
 
 ----------------------- 
