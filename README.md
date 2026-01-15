@@ -72,7 +72,7 @@ HOW TO USE THEM:
 | 0014 | Use the Crane |
 | 0015 | Talk to the maid |
 | 0016 | Talk to the frog |
-| 0017 | activate the lift |
+| 0017 | Activate the lift |
 | 0018 | Go through the door and beat him |
 | 0019 | Move towards the edge and go through all videos and dialogues |
 
