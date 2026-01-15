@@ -18,6 +18,9 @@ For sure the savgames itself have an ".LBA" formatted file-ending.
 - Description how to ouse every savegame
 - Description how to establish the savegames in the first place
 
+- wiki:
+
+[lba.fandom.com/Little_Big_Adventure_2](https://lba.fandom.com/wiki/Little_Big_Adventure_2)
 
 - Cheat Codes & simple tricks:
 
