@@ -66,7 +66,7 @@ HOW TO USE THEM:
 | 0008 | Wait some seconds and go through the dialogue |
 | 0009 | Move one step forward towards the steering unit and go through the video |
 | 0010 | Jump (once) through the ring thing |
-| 0011 | Jump up (once) into the secret room |
+| 0011 | Wait a second and you appear in the secret room |
 | 0012 | Wait some seconds and go through the dialogue |
 | 0013 | Take the ball |
 | 0014 | Use the Crane |
