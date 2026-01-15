@@ -1,15 +1,11 @@
----
-LBA2  
+# LBA2
+## Twinsen's Little Big Adventure 2
 
------------------------ 
 
-Twinsen's Little Big Adventure 2
-
------------------------ 
 
 ---
-Contents
------------------------ 
+## Contents
+
 
 - [Installation Instructions](#installation-instructions)
 
@@ -36,7 +32,7 @@ Contents
 
 
 
-⚠️ **BACKUP YOUR ORIGINAL SAVEGAMES!!**
+⚠️ **BACKUP YOUR ORIGINAL SAVEGAMES!!** ⚠️
 
 
 Copy or move the savegames from the following table to your savegame folder:  
@@ -50,7 +46,7 @@ C:\Program Files (x86)\Steam\userdata\[YOUR-STEAM-USERNAME]\398000\
 
 ```
 
-For sure the savegames itself have an .LBA formatted file-ending.
+**For sure the savegames itself have an .LBA formatted file-ending.**
 
 
 
