@@ -6,6 +6,20 @@
 
 
 
+
+
+## Contents
+
+- [SAVEGAMES](#savegames)
+- [Installation Instructions](#installation-instructions)
+- [FULL WALKTHROUGH SAVEGAMES](#full-walkthrough-savegames)
+- [HOW TO USE THEM](#how-to-use-them)
+- [WIKI](#wiki)
+- [Simple tricks](#simple-tricks)
+- [FULL WALKTHROUGH](#full-walkthrough)
+- [Cheat Codes](#cheat-codes)
+
+
 ### SAVEGAMES  
 **100% Steam Achievements**
 
@@ -60,6 +74,17 @@ HOW TO USE THEM:
 | 0017 | Wait some seconds |
 | 0018 | Go through the door and beat him |
 | 0019 | Move towards the edge and go through all videos and dialogues |
+
+
+
+
+
+
+### FULL WALKTHROUGH SAVEGAMES
+
+The folder **LBA2-FULL-SAVEGAMES** contains savegames for the complete game walkthrough, covering all major story points and progress stages.
+
+The file naming is mostly self-explanatory and reflects the current location, objective, or story situation of each savegame.
 
 
  
