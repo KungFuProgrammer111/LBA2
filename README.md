@@ -65,11 +65,17 @@ Guide ToDo's:
 - Full Solution with description
 
 
-- wiki:
+----------------------- 
+WIKI
+----------------------- 
 
 [lba.fandom.com/Little_Big_Adventure_2](https://lba.fandom.com/wiki/Little_Big_Adventure_2)
 
-- Cheat Codes & simple tricks:
+----------------------- 
+
+----------------------- 
+Cheat Codes & simple tricks:
+----------------------- 
 
 Press Esc to bring up the menu and type:
 
