@@ -1,6 +1,6 @@
 # LBA2
 
-Twinsen's little big adventure 2 
+Twinsen's Little Big Adventure 2 
 
 SAVEGAMES
 
