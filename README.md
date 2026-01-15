@@ -3,6 +3,9 @@ Twinsen's little big adventure - savegames - steam achievements
 
 
 
+Copy or move the savegames:
+----------------------- 
+
 BACKUP YOUR ORIGINAL SAVEGAMES!!
 
 THEY SHOULD BE IN ONE OF THOSE LoCATIONS:
@@ -13,12 +16,36 @@ THEY SHOULD BE IN ONE OF THOSE LoCATIONS:
 For sure the savgames itself have an ".LBA" formatted file-ending.
 
 
+HOW TO USE THEM:
+----------------------- 
+
+0001: Talk to the mage
+0002: Attack until you hit with the heart the clam
+0003: Attack until you hit with the heart the small man
+0004: Attack until you hit with the hearts the Dino 4-5 times
+0005: Talk to the guy on the carpet and buy the tunica
+0006: Pick up the moving thing in the corner by moving to it
+0007: Race one round, dont touch him, stay close behind
+0008: Wait some seconds and go through the dialogue
+0009: move up the ladder and towards the steering unit
+0010: Jump (twice) through the ring thing
+0011: Jump up (once) into the secret room
+0012: Talk to Baldino
+0013: Take the ball
+0014: Use the Crane
+0015: Talk to the maid
+0016: Talk to the frog
+0017: Wait some seconds
+0018: Go through the door and beat him
+0019: Move towards the edge and go through all videos and dialogues
+ 
+
+
 Guide ToDo's:
 
 - Full Savegame-set
 - Full Solution with description
-- Description how to use every savegame
-- Description how to establish the savegames in the first place
+
 
 - wiki:
 
