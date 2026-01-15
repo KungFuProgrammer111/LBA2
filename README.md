@@ -54,27 +54,34 @@ C:\Program Files (x86)\Steam\userdata\[YOUR-STEAM-USERNAME]\398000\
 HOW TO USE THEM:
 ----------------------- 
 
-| Step | Description | Time needed |
-|------|-------------|-------------|
-| 0001 | Talk to the mage                                                                              | 10sec   |
-| 0002 | 'Attack' until you hit with the heart the clam                                                | 20sec   |
-| 0003 | 'Attack' until you hit with the heart the small man                                           | 10sec   |
-| 0004 | 'Attack' until you hit with the hearts the Dino 4-5 times                                     | 25sec   |
-| 0005 | Talk to the guy on the carpet and buy the tunica                                              | 15sec   |
-| 0006 | Wait a second                                                                                 | 2sec    |
-| 0007 | Race one round, dont touch him, stay close behind - if says 'lost' - reload and try again     | 1-10min |
-| 0008 | Wait some seconds and go through the dialogue                                                 | 25sec   |
-| 0009 | Move one step forward towards the steering unit and go through the video                      | 15sec   |
-| 0010 | Jump (once) through the ring thing                                                            | 10sec   |
-| 0011 | Wait a second and you appear in the secret room                                               | 5sec    |
-| 0012 | Wait some seconds and go through the dialogue                                                 | 10sec   |
-| 0013 | Take the ball                                                                                 | 5sec    |
-| 0014 | Use the Crane                                                                                 | 10sec   |
-| 0015 | Talk to the maid                                                                              | 30sec   |
-| 0016 | Talk to the frog                                                                              | 10sec   |
-| 0017 | Activate the lift                                                                             | 10sec   |
-| 0018 | Go through the door and beat him                                                              | 1min    |
-| 0019 | Move towards the edge and go through all videos and dialogues                                 | 2min    |
+Considering to change some keys for your gameplay handling.
+You need to be able 
+- to move (most saves do not need it, as they are perfectly positioned)
+- to interact (default ENTER/ RETURN)
+- to fight (default ALT)
+- to jump (default SPACE)
+
+| Step | Description | Time needed | Action default |
+|------|-------------|-------------|----------------|
+| 0001 | Talk to the mage                                                                              | 10sec   | ENTER        |
+| 0002 | 'Attack' until you hit with the heart the clam                                                | 20sec   | ALT          |
+| 0003 | 'Attack' until you hit with the heart the small man                                           | 10sec   | ALT          |
+| 0004 | 'Attack' until you hit with the hearts the Dino 4-5 times                                     | 25sec   | ALT          |
+| 0005 | Talk to the guy on the carpet and buy the tunica                                              | 15sec   | ENTER        |
+| 0006 | Wait a second                                                                                 | 2sec    | WAIT         |
+| 0007 | Race one round, dont touch him, stay close behind - if says 'lost' - reload and try again     | 1-10min | MOVE         |
+| 0008 | Wait some seconds and go through the dialogue                                                 | 25sec   | ESC/ ENTER   |
+| 0009 | Move one step forward towards the steering unit and go through the video                      | 15sec   | MOVE         |
+| 0010 | Jump (once) through the ring thing                                                            | 10sec   | JUMP         |
+| 0011 | Wait a second and you appear in the secret room                                               | 5sec    | WAIT         |
+| 0012 | Wait some seconds and go through the dialogue                                                 | 10sec   | ESC/ ENTER   |
+| 0013 | Take the ball                                                                                 | 5sec    | ENTER        |
+| 0014 | Use the Crane                                                                                 | 10sec   | ENTER        |
+| 0015 | Talk to the maid                                                                              | 30sec   | ENTER        |
+| 0016 | Talk to the frog                                                                              | 10sec   | ENTER        |
+| 0017 | Activate the lift                                                                             | 10sec   | SPACE        |
+| 0018 | Go through the door and beat him                                                              | 1min    | MOVE & FIGHT |
+| 0019 | Move towards the edge and go through all videos and dialogues                                 | 2min    | MOVE         |
 
 
 
