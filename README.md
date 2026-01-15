@@ -29,13 +29,13 @@ HOW TO USE THEM:
 
 0005: Talk to the guy on the carpet and buy the tunica
 
-0006: Pick up the moving thing in the corner by moving to it
+0006: Wait some seconds
 
 0007: Race one round, dont touch him, stay close behind
 
 0008: Wait some seconds and go through the dialogue
 
-0009: move up the ladder and towards the steering unit
+0009: Move up the ladder and towards the steering unit
 
 0010: Jump (twice) through the ring thing
 
