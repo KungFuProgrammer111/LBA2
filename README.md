@@ -14,7 +14,7 @@
 | TIPPS & TRICKS              | [Simple tricks](#simple-tricks)                           | 
 | WALKTROUGH SAVEGAMES        | [FULL WALKTHROUGH SAVEGAMES](#full-walkthrough-savegames) |  
 | WALKTROUGH DESRIPTION       | [FULL WALKTHROUGH](#full-walkthrough)                     | 
-| CHEATS                      | [FULL WALKTHROUGH](#full-walkthrough)                     | 
+| CHEATS                      | [CHEATS](#cheat-codes)                                    | 
 
 ---
 
@@ -144,7 +144,7 @@ The file naming is mostly self-explanatory and reflects the current location, ob
 
 ---
 
-#FULL WALKTHROUGH:
+#FULL WALKTHROUGH
 
 
 
