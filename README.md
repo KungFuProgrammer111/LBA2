@@ -21,23 +21,23 @@ HOW TO USE THEM:
 
 0001: Talk to the mage
 
-0002: Attack until you hit with the heart the clam
+0002: 'Attack' until you hit with the heart the clam
 
-0003: Attack until you hit with the heart the small man
+0003: 'Attack' until you hit with the heart the small man
 
-0004: Attack until you hit with the hearts the Dino 4-5 times
+0004: 'Attack' until you hit with the hearts the Dino 4-5 times
 
 0005: Talk to the guy on the carpet and buy the tunica
 
-0006: Wait some seconds
+0006: Wait a second
 
 0007: Race one round, dont touch him, stay close behind - if says 'lost' - reload and try again
 
 0008: Wait some seconds and go through the dialogue
 
-0009: Move up the ladder and towards the steering unit
+0009: Move one step forward towards the steering unit and go through the video
 
-0010: Jump (twice) through the ring thing
+0010: Jump (once) through the ring thing
 
 0011: Jump up (once) into the secret room
 
