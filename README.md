@@ -94,15 +94,21 @@ Simple tricks:
 
 Little Big Adventure 2: Twinsen's Odyssey - Warp to Desert Island:
 ------------------------------------------------------------------
-Buy a ferry ticket on Citadel Island. Board ferry, even if it is 
+Buy a ferry ticket on Citadel Island. 
+
+Board ferry, even if it is 
+
 raining. Press [Esc] you will  automatically be on Desert Island.
 
 
 Hidden Clover Leaf:
 -------------------
 At the starting Citadel Island go to the cow in the hills.
+
 Stand behind her and press DODGE + UP (default x + UP)
+
 A clover leaf will drop.
+
 You can repeat as often as you want.
 
 
@@ -111,7 +117,9 @@ Blowgun test:
 -------------
 At the first test in the School of Magic - hitting targets with the 
 magic ball.
+
 Make it easier by releasing one or two Meca Pengouins. 
+
 Exploding will taking out several targets.
 
 
