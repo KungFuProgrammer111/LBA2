@@ -14,7 +14,7 @@
 | TIPPS & TRICKS              | [Simple tricks](#simple-tricks)                           | 
 | WALKTROUGH SAVEGAMES        | [FULL WALKTHROUGH SAVEGAMES](#full-walkthrough-savegames) |  
 | WALKTROUGH DESRIPTION       | [FULL WALKTHROUGH](#full-walkthrough)                     | 
-
+| CHEATS                      | [FULL WALKTHROUGH](#full-walkthrough)                     | 
 
 ---
 
@@ -143,8 +143,9 @@ The file naming is mostly self-explanatory and reflects the current location, ob
 
 
 ---
-FULL WALKTHROUGH:
--------------
+
+#FULL WALKTHROUGH:
+
 
 
 The Rain
@@ -292,9 +293,9 @@ Kobold – 2007-10-17
 
 
 
----
-Cheat Codes
------------------------ 
+
+#Cheat Codes
+
 
 Press Esc to bring up the menu and type:
 
