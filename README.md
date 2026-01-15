@@ -267,7 +267,8 @@ Quickly get the elevator back down and drop through the now-open hole in the gro
 
 In the last room, kill the rocket grobo clone to the left to get the key, then head to the right and downstairs to face FunFrock. Kill FunFrock and any of his clones, preferably with the Lightning spell. Go near the lava for the ending cutscene.
 
-
+SPECIAL THANKS TO 
+Kobold – 2007-10-17
 
 ---
 Cheat Codes
