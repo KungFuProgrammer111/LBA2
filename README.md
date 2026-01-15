@@ -144,7 +144,7 @@ The file naming is mostly self-explanatory and reflects the current location, ob
 
 ---
 
-#FULL WALKTHROUGH
+# FULL WALKTHROUGH
 
 
 
@@ -294,7 +294,7 @@ Kobold – 2007-10-17
 
 
 
-#Cheat Codes
+# Cheat Codes
 
 
 Press Esc to bring up the menu and type:
