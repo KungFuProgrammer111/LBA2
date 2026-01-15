@@ -101,13 +101,10 @@ raining. Press [Esc] you will  automatically be on Desert Island.
 Hidden Clover Leaf:
 -------------------
 At the starting Citadel Island go to the cow in the hills.
-
+Stand behind her and press DODGE + UP (default x + UP)
 A clover leaf will drop.
-You can repeat as oftena s you want.
+You can repeat as often as you want.
 
-Go to the hills and find Rosa Marie the cow on Citadel Island. Stand 
-behind her while facing towards her head and press X + [Up].
-A hidden Clover Leaf will appear.
 
 
 Blowgun test:
