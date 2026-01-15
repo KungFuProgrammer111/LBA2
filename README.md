@@ -282,7 +282,7 @@ Press Esc to bring up the menu and type:
 
 (only just the letters, case INsensitive!)
 
------------------------ 
+---
 
 | CODE | RESULT |
 |----------|----------|
@@ -297,4 +297,4 @@ Press Esc to bring up the menu and type:
 
 
 ----------------------- 
-
+----------------------- 
