@@ -80,19 +80,6 @@ HOW TO USE THEM:
 
 
 
-
-
-
-### FULL WALKTHROUGH SAVEGAMES
-
-The folder **LBA2-FULL-SAVEGAMES** contains savegames for the complete game walkthrough, covering all major story points and progress stages.
-
-The file naming is mostly self-explanatory and reflects the current location, objective, or story situation of each savegame.
-
-
- 
-
-
 ---
 WIKI
 ----------------------- 
@@ -140,7 +127,17 @@ The Exploding will taking out several targets.
 
 
 
+---
 
+
+### FULL WALKTHROUGH SAVEGAMES
+
+The folder **LBA2-FULL-SAVEGAMES** contains savegames for the complete game walkthrough, covering all major story points and progress stages.
+
+The file naming is mostly self-explanatory and reflects the current location, objective, or story situation of each savegame.
+
+
+ 
 
 
 
