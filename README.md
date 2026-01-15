@@ -87,30 +87,9 @@ WIKI
 [lba.fandom.com/Little_Big_Adventure_2](https://lba.fandom.com/wiki/Little_Big_Adventure_2)
 
 
-
 ---
-Cheat Codes & simple tricks:
+Simple tricks:
 ----------------------- 
-
-Press Esc to bring up the menu and type:
-
-Code         Results
------------------------ 
-LIFE       - Full Life
-
-MAGIC      - Full Magic
-
-FULL       - Full Life, Magic and Clovers
-
-GOLD       - 50 coins
-
-SPEED      - Frame Rate
-
-CLOVER     - Clover
-
-BOX        - Clover Box
-
-PINGOUIN   - Meca-Penguin
 
 
 Little Big Adventure 2: Twinsen's Odyssey - Warp to Desert Island:
@@ -121,6 +100,11 @@ raining. Press [Esc] you will  automatically be on Desert Island.
 
 Hidden Clover Leaf:
 -------------------
+At the starting Citadel Island go to the cow in the hills.
+
+A clover leaf will drop.
+You can repeat as oftena s you want.
+
 Go to the hills and find Rosa Marie the cow on Citadel Island. Stand 
 behind her while facing towards her head and press X + [Up].
 A hidden Clover Leaf will appear.
@@ -128,7 +112,33 @@ A hidden Clover Leaf will appear.
 
 Blowgun test:
 -------------
-Your first test in the School of Magic is to hit targets with your 
-magic ball as they spin around the podium. To make this much easier,
-release one or two Nitro-Meca Pengouins. 
-They will explode, taking out several targets at once.
+At the first test in the School of Magic - hitting targets with the 
+magic ball.
+Make it easier by releasing one or two Meca Pengouins. 
+Exploding will taking out several targets.
+
+
+---
+Cheat Codes
+----------------------- 
+
+Press Esc to bring up the menu and type:
+
+Code
+----------------------- 
+LIFE       // Full Life
+
+MAGIC      // Full Magic
+
+FULL       // Full Life, Magic and Clovers
+
+GOLD       // 50 coins
+
+SPEED      // Frame Rate
+
+CLOVER     // Clover
+
+BOX        // Clover Box
+
+PINGOUIN   // Meca-Penguin
+
