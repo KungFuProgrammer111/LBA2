@@ -96,9 +96,9 @@ Little Big Adventure 2: Twinsen's Odyssey - Warp to Desert Island:
 ------------------------------------------------------------------
 Buy a ferry ticket on Citadel Island. 
 
-Board ferry, even if it is 
+Board ferry, even if it is raining. 
 
-raining. Press [Esc] you will  automatically be on Desert Island.
+Press ESC and you will automatically be on Desert Island.
 
 
 Hidden Clover Leaf:
