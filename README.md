@@ -31,7 +31,7 @@ HOW TO USE THEM:
 
 0006: Wait some seconds
 
-0007: Race one round, dont touch him, stay close behind
+0007: Race one round, dont touch him, stay close behind - if says 'lost' - reload and try again
 
 0008: Wait some seconds and go through the dialogue
 
