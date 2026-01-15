@@ -1,6 +1,6 @@
 # LBA2
 Twinsen's little big adventure 2 
-- savegames -
+SAVEGAMES
 100% steam achievements
 
 
