@@ -13,11 +13,14 @@
 
 ### Installation Instructions
 
-Copy or move the savegames:  
+
 
 ⚠️ **BACKUP YOUR ORIGINAL SAVEGAMES!!**
 
-They should be in one of these locations:
+
+Copy or move the savegames from the following table to your savegame folder:  
+
+It should be in one of these locations:
 
 ```text
 
