@@ -1,14 +1,14 @@
-# LBA2  
+LBA2  
 
 ---
 
-## Twinsen's Little Big Adventure 2
+Twinsen's Little Big Adventure 2
 
 ---
 
 
 
-## Contents
+Contents
 
 - [Installation Instructions](#installation-instructions)
 
