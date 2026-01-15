@@ -1,10 +1,10 @@
 # LBA2  
 
-
+---
 
 ## Twinsen's Little Big Adventure 2
 
-
+---
 
 
 
@@ -22,13 +22,14 @@
 
 - [Cheat Codes](#cheat-codes)
 
-
+---
 
 
 ### SAVEGAMES  
 **100% Steam Achievements**
 
 ---
+
 
 ### Installation Instructions
 
