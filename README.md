@@ -15,7 +15,7 @@ SAVEGAMES
 ---
 Guide ToDo's:
 
-- Full Savegame-set
+
 - Full Solution with description
 
 
