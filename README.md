@@ -1,4 +1,7 @@
 # LBA2  
+
+---
+
 ## Twinsen's Little Big Adventure 2
 
 ---
@@ -11,42 +14,21 @@
 ### Installation Instructions
 
 Copy or move the savegames:  
+
 ⚠️ **BACKUP YOUR ORIGINAL SAVEGAMES!!**
 
 They should be in one of these locations:
 
 ```text
+
 C:\Users\[YOUR-USERNAME]\Saved Games\2point21\tlba2-classic\Save
 C:\Program Files (x86)\Steam\userdata\[YOUR-STEAM-USERNAME]\398000\
+
 ```
 
 For sure the savegames itself have an .LBA formatted file-ending.
 
 
-
-# LBA2
-
-Twinsen's Little Big Adventure 2 
-
-SAVEGAMES
-
-100% steam achievements
-
-
-
-
----
-Copy or move the savegames:
------------------------ 
-
-BACKUP YOUR ORIGINAL SAVEGAMES!!
-
-THEY SHOULD BE IN ONE OF THOSE LoCATIONS:
-
-1. C:\Users\[YOUR-USERNAME]\Saved Games\2point21\tlba2-classic\Save
-2. C:\Program Files (x86)\Steam\userdata\[YOUR-STEAM-USERNAME]\398000\
-
-For sure the savgames itself have an ".LBA" formatted file-ending.
 
 
 
