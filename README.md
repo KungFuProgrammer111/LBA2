@@ -10,10 +10,11 @@
 
 ## Contents
 
-- [SAVEGAMES](#savegames)
 - [Installation Instructions](#installation-instructions)
-- [FULL WALKTHROUGH SAVEGAMES](#full-walkthrough-savegames)
+
 - [HOW TO USE THEM](#how-to-use-them)
+
+- [FULL WALKTHROUGH SAVEGAMES](#full-walkthrough-savegames)
 - [WIKI](#wiki)
 - [Simple tricks](#simple-tricks)
 - [FULL WALKTHROUGH](#full-walkthrough)
