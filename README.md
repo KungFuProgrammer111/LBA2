@@ -113,7 +113,7 @@ You can repeat as often as you want.
 
 
 
-1. Mage test:
+First Mage test:
 -------------
 At the first test in the School of Magic - hitting targets with the 
 magic ball.
