@@ -41,7 +41,7 @@ HOW TO USE THEM:
 
 0011: Jump up (once) into the secret room
 
-0012: Talk to Baldino
+0012: Wait some seconds and go through the dialogue
 
 0013: Take the ball
 
