@@ -6,13 +6,13 @@
 ---
 ## Contents
 
-| Section | 
-| [Installation Instructions](#installation-instructions) | 
-| [HOW TO USE THEM](#how-to-use-them) | 
-| [WIKI](#wiki) | 
-| [Simple tricks](#simple-tricks) | 
-| [FULL WALKTHROUGH SAVEGAMES](#full-walkthrough-savegames) | 
-| [FULL WALKTHROUGH](#full-walkthrough) | 
+| Section | LINK | 
+| [Installation Instructions](#installation-instructions) |  | 
+| [HOW TO USE THEM](#how-to-use-them) |  | 
+| [WIKI](#wiki) |  | 
+| [Simple tricks](#simple-tricks) |  | 
+| [FULL WALKTHROUGH SAVEGAMES](#full-walkthrough-savegames) |  | 
+| [FULL WALKTHROUGH](#full-walkthrough) |  | 
 
 
 ---
