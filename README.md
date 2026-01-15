@@ -3,23 +3,20 @@
 
 
 
----
-## Contents
+## 📖 Contents
 
-
-- [Installation Instructions](#installation-instructions)
-
-- [HOW TO USE THEM](#how-to-use-them)
-
-- [WIKI](#wiki)
-- [Simple tricks](#simple-tricks)
-
-- [FULL WALKTHROUGH SAVEGAMES](#full-walkthrough-savegames)
-- [FULL WALKTHROUGH](#full-walkthrough)
-
-- [Cheat Codes](#cheat-codes)
+| Section | Link |
+|--------|------|
+| Installation Instructions | [Go](#installation-instructions) |
+| HOW TO USE THEM | [Go](#how-to-use-them) |
+| WIKI | [Go](#wiki) |
+| Simple tricks | [Go](#simple-tricks) |
+| FULL WALKTHROUGH SAVEGAMES | [Go](#full-walkthrough-savegames) |
+| FULL WALKTHROUGH | [Go](#full-walkthrough) |
+| Cheat Codes | [Go](#cheat-codes) |
 
 ---
+
 
 
 ### SAVEGAMES  
