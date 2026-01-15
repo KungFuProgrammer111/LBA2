@@ -13,9 +13,11 @@ THEY SHOULD BE IN ONE OF THOSE LoCATIONS:
 For sure the savgames itself have an ".LBA" formatted file-ending.
 
 
+Guide ToDo's:
+
 - Full Savegame-set
 - Full Solution with description
-- Description how to ouse every savegame
+- Description how to use every savegame
 - Description how to establish the savegames in the first place
 
 - wiki:
