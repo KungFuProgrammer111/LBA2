@@ -29,12 +29,19 @@ Press Esc to bring up the menu and type:
 Code         Results
 ----------------------- 
 LIFE       - Full Life
+
 MAGIC      - Full Magic
+
 FULL       - Full Life, Magic and Clovers
+
 GOLD       - 50 coins
+
 SPEED      - Frame Rate
+
 CLOVER     - Clover
+
 BOX        - Clover Box
+
 PINGOUIN   - Meca-Penguin
 
 
