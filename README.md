@@ -6,13 +6,14 @@
 ---
 ## Contents
 
-| Section | LINK | 
-| [Installation Instructions](#installation-instructions) |  | 
-| [HOW TO USE THEM](#how-to-use-them) |  | 
-| [WIKI](#wiki) |  | 
-| [Simple tricks](#simple-tricks) |  | 
-| [FULL WALKTHROUGH SAVEGAMES](#full-walkthrough-savegames) |  | 
-| [FULL WALKTHROUGH](#full-walkthrough) |  | 
+| Section                     | LINK                                                      |  
+|-----------------------------|-----------------------------------------------------------|
+| 100% Savegames              | [Installation Instructions](#installation-instructions)   |  
+| HOW TO GET THEM TO WORK     | [HOW TO USE THEM](#how-to-use-them)                       |  
+| FAN-WIKIPEDIA               | [WIKI](#wiki)                                             |  
+| TIPPS & TRICKS              | [Simple tricks](#simple-tricks)                           | 
+| WALKTROUGH SAVEGAMES        | [FULL WALKTHROUGH SAVEGAMES](#full-walkthrough-savegames) |  
+| WALKTROUGH DESRIPTION       | [FULL WALKTHROUGH](#full-walkthrough)                     | 
 
 
 ---
