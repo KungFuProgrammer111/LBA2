@@ -17,11 +17,11 @@ Guide ToDo's:
 
 - Full Savegame-set
 - Full Solution with description
+
+
+
+
 ---
-
-
-
-
 Copy or move the savegames:
 ----------------------- 
 
@@ -35,6 +35,8 @@ THEY SHOULD BE IN ONE OF THOSE LoCATIONS:
 For sure the savgames itself have an ".LBA" formatted file-ending.
 
 
+
+---
 HOW TO USE THEM:
 ----------------------- 
 
@@ -78,15 +80,15 @@ HOW TO USE THEM:
  
 
 
------------------------ 
+---
 WIKI
 ----------------------- 
 
 [lba.fandom.com/Little_Big_Adventure_2](https://lba.fandom.com/wiki/Little_Big_Adventure_2)
 
------------------------ 
 
------------------------ 
+
+---
 Cheat Codes & simple tricks:
 ----------------------- 
 
