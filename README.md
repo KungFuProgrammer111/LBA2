@@ -8,7 +8,7 @@
 
 | Section                     | LINK                                                      |  
 |-----------------------------|-----------------------------------------------------------|
-| 100% Savegames              | [Installation Instructions](#installation-instructions)   |  
+| 100% ACHIEVEMENTS           | [Installation Instructions](#installation-instructions)   |  
 | HOW TO GET THEM TO WORK     | [HOW TO USE THEM](#how-to-use-them)                       |  
 | FAN-WIKIPEDIA               | [WIKI](#wiki)                                             |  
 | TIPPS & TRICKS              | [Simple tricks](#simple-tricks)                           | 
